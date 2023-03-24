@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Authentification"
-AuthUserFile /vic0sss.github.io/.htpasswd
-require valid-user
